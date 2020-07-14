@@ -2,7 +2,7 @@
 
 ### I implemented a full deep learning pipeline that generates captions for images using a CNN encoder & RNN decoder.
 
-The jupyter notebooks do the following:
+All code was written using Jupyter Notebook and was created for Udacity's "Computer Vision" course. The Notebooks are also fully documented with visuals, answers, and descriptions. 
 
 # 0. Dataset
 
@@ -16,8 +16,6 @@ Loads the [COCO Dataset](https://cocodataset.org/#home) and performs pre-process
 
 Select the hyperparameters and train the CNN-RNN model.
 
-# 2. Inference
+# 3. Inference
 
-Utilize the CNN-RNN model to generate captions for test images.
-
-The notebooks are fully documented and were completed as a part of Udacity's "Computer Vision" course.  
+Utilize the CNN-RNN model to generate captions for test images. 
