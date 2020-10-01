@@ -1,4 +1,5 @@
 # Image-Captioning
+##An Amazing Project
 
 ### I implemented a full deep learning pipeline that generates captions for images using a CNN encoder & RNN decoder.
 
